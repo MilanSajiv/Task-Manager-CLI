@@ -49,10 +49,7 @@ Menu:
 Enter your choice: 2
 Task 1: Finish Python worksheet - Due Date: 2025-05-01
 ```
+## 👨‍💻 Author
 
-```yaml
-
----
-
-Paste this into a `README.md` file in your repo root and you’re good to go. Let me know if you want help publishing this to GitHub or making it even more professional with badges or a project icon!
-```
+Built with ❤️ by [Milan Sajiv](https://github.com/MilanSajiv)  
+Feel free to fork ⭐, improve 🔧, and build on it!
